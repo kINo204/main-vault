@@ -10,7 +10,7 @@ $$
 p(X|Y), ~ X\cap Y=\emptyset
 $$
 
-Atomic operations:
+Atomic operations: assume $\alpha, \beta, \gamma$ are *random vectors*, then
 - Marginalization, $p(\alpha,\beta|\gamma)\to p(\alpha|\gamma)$
     - $\#(X+Y)\downarrow, ~ \#X\downarrow,~ \#Y-$
     - The conditional context doesn't change
